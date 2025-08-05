@@ -3,44 +3,10 @@
 #+OPTIONS: toc:nil
 #+TITLE: The Penguin
 #+AUTHOR: Lorenz Schwab
-#+EMAIL: lorenz.schwab@blank.de
 
 #+REVEAL_TITLE_SLIDE: %t <br/>
 #+REVEAL_TITLE_SLIDE: <img style="height: 200px;" src="img/Tux.png"/><br/><br/>
-#+REVEAL_TITLE_SLIDE: %a <br/> %e
-
-* Contents
-  - [[Contents][Contents]]
-  - [[The issue(s)][The issue(s)]]
-    - [[Windows 11 features 1 / 2][Windows 11 features 1 / 2]]
-    - [[Windows 11 features 2 / 2][Windows 11 features 2 / 2]]
-  - [[The Penguin][The Penguin]]
-    - [[Linux][Linux]]
-    - [[Problems solved][Problems solved]]
-    - [[Problems introduced][Problems introduced]]
-#+REVEAL: split
-  - [[Addressing the issues][Addressing the issues]]
-    - [[Installing a linux][Installing a linux]]
-    - [[The Kernel][The Kernel]]
-    - [[The Distro][The Distro]]
-    - [[Family tree][Family tree]]
-#+REVEAL: split
-  - [[Linux intro][Linux intro]]
-    - [[Multiuser, timesharing system][Multiuser, timesharing system]]
-    - [[Basic terminal usage][Basic terminal usage]]
-    - [[Package management][Package management]]
-    - [[Change username, password, permissions, ownership][Change username, password, permissions, ownership]]
-    - [[Change hostname][Change hostname]]
-#+REVEAL: split
-    - [[Networking][Networking]]
-    - [[Sound setup][Sound setup]]
-    - [[Bluetooth][Bluetooth]]
-    - [[Text editing inside terminal][Text editing inside terminal]]
-    - [[Breaking your system][Breaking your system]]
-    - [[Fixing it][Fixing it]]
-    - [[Getting help][Getting help]]
-    - [[Bonus][Bonus]]
-  - [[Footnotes][Footnotes]]
+#+REVEAL_TITLE_SLIDE: %a <br/><br/> L0ren2.github.io
 
 * The issue(s)
 - Windows 10 EOL in October 2025
