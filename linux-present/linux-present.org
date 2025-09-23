@@ -5,8 +5,8 @@
 #+AUTHOR: Lorenz Schwab
 
 #+REVEAL_TITLE_SLIDE: %t <br/>
-#+REVEAL_TITLE_SLIDE: <img style="height: 200px;" src="img/Tux.png"/><br/><br/>
-#+REVEAL_TITLE_SLIDE: %a <br/><br/> L0ren2.github.io
+#+REVEAL_TITLE_SLIDE: <img style="height: 250px;padding: 20px;" src="img/Tux.png"/><img style="height: 250px;padding: 20px;" src="img/qr-linux-present.png"/><br/><br/>
+#+REVEAL_TITLE_SLIDE: %a <br/><br/> L0ren2.github.io/linux-present
 
 * The issue(s)
 - Windows 10 EOL in October 2025
@@ -59,15 +59,15 @@ Does not differentiate between
 - also creates some new ones
 
 ** Linux
-| pros                   | cons                  |
-|------------------------+-----------------------|
-| no ads                 | might need emulation  |
-| install stuff manually | incompatible software |
-| free (as in freedom)   | steep learning curve  |
-| secure                 | configure yourself    |
-| the terminal           | the terminal          |
-| customizability        | options paralysis     |
-| hardware compatibility |                       |
+| pros                   | cons                   |
+|------------------------+------------------------|
+| no ads                 | might need emulation   |
+| install stuff manually | what do I want / need? |
+| free (as in freedom)   | steep learning curve   |
+| secure                 | configure yourself     |
+| the terminal           | the terminal           |
+| customizability        | options paralysis      |
+| hardware compatibility | incompatible software  |
 
 ** Problems solved
 - hardware obsolescence
