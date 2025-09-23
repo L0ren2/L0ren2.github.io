@@ -21,9 +21,19 @@
 |-------------------------------+---------------------------------|
 | faster & more secure than W10 | hardware constraints (TPM, GPU) |
 | better looks                  | harder to reach settings        |
-| darkmode                      | darkmode not system-wide        |
+| darkmode                      | not system-wide                 |
 | easy to use                   | cumbersome to install software  |
-| recall feature is opt in now  | recall is a privacy nightmare   |
+| recall opt in now             | still privacy nightmare         |
+
+*** Microsoft Recall
+- AI search engine
+- Personalized for you
+- Takes screenshots every couple seconds
+Does not differentiate between
+- Bank account
+- Youtube video
+- Word documents
+- Work documents (IP)
 
 ** Windows 11 features 2 / 2
 | pros                 | cons                                      |
@@ -34,8 +44,16 @@
 | MS office            | microsoft dependency                      |
 | easy cloud access    | cloud usage is almost mandatory           |
 
+*** Commentary
+- Bluescreens should never really happen
+- Bluescreens seem more frequent than ever
+- Search function is getting worse
+- Cortana tries to "help"
+#+ATTR_HTML: :height 75px
+[[./img/clippy.jpg]]
+
 * The Penguin
-#+ATTR_HTML: :height 50px
+#+ATTR_HTML: :height 75px
 [[./img/Tux.png]] [fn:2]
 - Linux solves a lot of problems
 - also creates some new ones
@@ -97,11 +115,15 @@
 
 - Arch -> Manjaro
 
-- https://distrochooser.de/de
+** Distrochooser
+#+ATTR_HTML: :height 450px
+[[./img/qr-distrochooser.png]]
+
+https://distrochooser.de/de
 
 ** Family tree
 - do not be scared
-#+ATTR_HTML: :heigth 500px
+#+ATTR_HTML: :height 250px
 [[./img/tree.png]] [fn:3]
 - you don't need to know all
 - they are pretty similar anyways
@@ -197,7 +219,9 @@ honorable mention to:
 - arch wiki
 - forums, stack overflow, stack exchange
 - gentoo wiki
+- local community (eg. CCC, RZL, ...)
 - IRC
+- AI*
 
 ** Bonus
 - If you want to go above and beyond
